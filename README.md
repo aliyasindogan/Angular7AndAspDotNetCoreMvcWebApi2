@@ -2,6 +2,8 @@
 
 Bu projenin Angular 7 Web UI kısmı https://github.com/aliyasindogan/Angular7WebUI dır. 
 
+Web Sitesi:http://miniecommerce.aliyasindogan.com/
+
 Proje Hakkında
 Veri tabanı olarak MSSQL kullanıldı.
 İlişkisel veri tabanı diyagramı oluşturuldu.
@@ -17,7 +19,6 @@ Angular 7
 Bootstrap 4.3.1
 FontAwesome 5.8.2
 Alertifyjs 1.11.3
-
 
 Faydalı olması dileğiyle.
 
